@@ -70,6 +70,20 @@
 			"Quai Saint-Antoine",
 			"Musée des Confluences"
 		]
+	},
+	  {
+		"id": "69004",
+		"quartiers": [
+			"Ainay",
+			"Bellecour",
+			"Cordeliers",
+			"Confluence",
+			"Gare de Perrache",
+			"Perrache",
+			"Place Bellecour",
+			"Quai Saint-Antoine",
+			"Musée des Confluences"
+		]
 	}
   ]
 }
