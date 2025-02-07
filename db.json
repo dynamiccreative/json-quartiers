@@ -1,7 +1,7 @@
 {
   "Paris": [
     {
-      "cp": "75001",
+      "id": "75001",
       "quartiers" : [
         "Les Halles",
         "Louvre-Rivoli",
@@ -16,7 +16,7 @@
       ]
 	},
 	{
-		"cp": "75002",
+		"id": "75002",
 		"quartiers": [
 			"Bonne Nouvelle",
 			"Bourse",
@@ -32,7 +32,7 @@
   ],
   "Lyon": [
     {
-		"cp": "69001",
+		"id": "69001",
 		"quartiers": [
 			"Croix-Paquet",
 			"Hôtel de Ville - Louis Pradel",
@@ -44,7 +44,7 @@
 		]
 	},
 	{
-		"cp": "69002",
+		"id": "69002",
 		"quartiers": [
 			"Ainay",
 			"Bellecour",
