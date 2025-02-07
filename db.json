@@ -1,0 +1,478 @@
+{
+  "Paris": {
+    "75001": [
+      "Les Halles",
+      "Louvre-Rivoli",
+      "Palais Royal - Musée du Louvre",
+      "Palais-Royal",
+      "Place-Vendôme",
+      "Pyramides",
+      "Saint-Germain-l'Auxerrois",
+      "Tuileries",
+      "Jardin des Tuileries",
+      "Louvre Museum"
+    ],
+    "75002": [
+      "Bonne Nouvelle",
+      "Bourse",
+      "Gaillon",
+      "Mail",
+      "Réaumur-Sébastopol",
+      "Sentier",
+      "Vivienne",
+      "Bibliothèque Nationale de France",
+      "Passage des Panoramas"
+    ],
+    "75003": [
+      "Archives",
+      "Arts et Métiers",
+      "Enfants-Rouges",
+      "République",
+      "Sainte-Avoye",
+      "Temple",
+      "Musée Carnavalet",
+      "Musée Picasso"
+    ],
+    "75004": [
+      "Arsenal",
+      "Châtelet",
+      "Hôtel de Ville",
+      "Notre-Dame",
+      "Pont Marie",
+      "Saint-Gervais",
+      "Saint-Merri",
+      "Saint-Paul",
+      "Notre-Dame Cathedral",
+      "Place des Vosges"
+    ],
+    "75005": [
+      "Cardinal Lemoine",
+      "Censier-Daubenton",
+      "Jardin des Plantes",
+      "Jussieu",
+      "Place Monge",
+      "Saint-Victor",
+      "Sorbonne",
+      "Val-de-Grâce",
+      "Jardin des Plantes",
+      "Panthéon"
+    ],
+    "75006": [
+      "Luxembourg Gardens",
+      "Mabillon",
+      "Monnaie",
+      "Notre-Dame-des-Champs",
+      "Odéon",
+      "Saint-Germain-des-Prés",
+      "Saint-Sulpice",
+      "Saint-Germain Church"
+    ],
+    "75007": [
+      "École Militaire",
+      "Gros-Caillou",
+      "Invalides",
+      "La Tour-Maubourg",
+      "Saint-Thomas-d'Aquin",
+      "Varenne",
+      "Eiffel Tower",
+      "Musée d'Orsay"
+    ],
+    "75008": [
+      "Arc de Triomphe",
+      "Champs-Élysées",
+      "Champs-Élysées - Clémenceau",
+      "Europe",
+      "Faubourg-du-Roule",
+      "Franklin D. Roosevelt",
+      "Madeleine",
+      "Place de la Concorde",
+      "Saint-Augustin"
+    ],
+    "75009": [
+      "Cadet",
+      "Chaussée-d'Antin",
+      "Faubourg-Montmartre",
+      "Notre-Dame-de-Lorette",
+      "Opéra Garnier",
+      "Pigalle",
+      "Rochechouart",
+      "Saint-Georges",
+      "Folies Bergère"
+    ],
+    "75010": [
+      "Château d'Eau",
+      "Gare de l'Est",
+      "Gare du Nord",
+      "Hôpital-Saint-Louis",
+      "Jacques Bonsergent",
+      "Porte-Saint-Denis",
+      "Porte-Saint-Martin",
+      "Saint-Vincent-de-Paul",
+      "Canal Saint-Martin",
+      "Gare du Nord"
+    ],
+    "75011": [
+      "Cirque d'Hiver",
+      "Folie-Méricourt",
+      "Oberkampf",
+      "Parmentier",
+      "Place de la Bastille",
+      "Roquette",
+      "Rue Saint-Maur",
+      "Saint-Ambroise",
+      "Sainte-Marguerite",
+      "Voltaire"
+    ],
+    "75012": [
+      "AccorHotels Arena",
+      "Bercy",
+      "Bel-Air",
+      "Cour Saint-Émilion",
+      "Daumesnil",
+      "Gare de Lyon",
+      "Nation",
+      "Picpus",
+      "Quinze-Vingts",
+      "Bois de Vincennes"
+    ],
+    "75013": [
+      "Bibliothèque François Mitterrand",
+      "Butte-aux-Cailles",
+      "Campo Formio",
+      "Croulebarbe",
+      "Gare",
+      "Maison-Blanche",
+      "Nationale",
+      "Place d'Italie",
+      "Salpêtrière",
+      "Tolbiac"
+    ],
+    "75014": [
+      "Alésia",
+      "Catacombes de Paris",
+      "Denfert-Rochereau",
+      "Montparnasse",
+      "Observatoire de Paris",
+      "Parc de Montsouris",
+      "Petit-Montrouge",
+      "Pernety",
+      "Plaisance",
+      "Porte d'Orléans"
+    ],
+    "75015": [
+      "Cambronne",
+      "Convention",
+      "Grenelle",
+      "Javel",
+      "Necker",
+      "Saint-Lambert",
+      "Ségur",
+      "Tour Montparnasse",
+      "Vaugirard",
+      "Parc André Citroën"
+    ],
+    "75016": [
+      "Auteuil",
+      "Bois de Boulogne",
+      "Chaillot",
+      "La Muette",
+      "Palais de Chaillot",
+      "Passy",
+      "Porte Dauphine",
+      "Porte d'Auteuil",
+      "Ranelagh",
+      "Trocadéro"
+    ],
+    "75017": [
+      "Batignolles",
+      "Courcelles",
+      "Épinettes",
+      "Parc Monceau",
+      "Plaine de Monceaux",
+      "Porte de Champerret",
+      "Ternes",
+      "Villiers"
+    ],
+    "75018": [
+      "Barbès-Rochechouart",
+      "Chapelle",
+      "Château Rouge",
+      "Clignancourt",
+      "Goutte d'Or",
+      "Grandes Carrières",
+      "Jules Joffrin",
+      "Marcadet-Poissonniers",
+      "Place du Tertre",
+      "Sacré-Cœur"
+    ],
+    "75019": [
+      "Amérique",
+      "Cité des Sciences",
+      "Combat",
+      "Jaurès",
+      "Laumière",
+      "Ourcq",
+      "Parc de la Villette",
+      "Pont de Flandre",
+      "Porte de Pantin",
+      "Villette"
+    ],
+    "75020": [
+      "Belleville",
+      "Charonne",
+      "Cimetière du Père-Lachaise",
+      "Gambetta",
+      "Ménilmontant",
+      "Parc de Belleville",
+      "Père Lachaise",
+      "Saint-Fargeau"
+    ]
+  },
+  "Lyon": {
+    "69001": [
+      "Croix-Paquet",
+      "Hôtel de Ville - Louis Pradel",
+      "Pentes de la Croix-Rousse",
+      "Terreaux",
+      "Place des Terreaux",
+      "Opéra Nouvel",
+      "Croix-Rousse"
+    ],
+    "69002": [
+      "Ainay",
+      "Bellecour",
+      "Cordeliers",
+      "Confluence",
+      "Gare de Perrache",
+      "Perrache",
+      "Place Bellecour",
+      "Quai Saint-Antoine",
+      "Musée des Confluences"
+    ],
+    "69003": [
+      "Dauphiné",
+      "Gare Part-Dieu",
+      "Garibaldi",
+      "Montchat",
+      "Part-Dieu",
+      "Place Guichard - Bourse du Travail",
+      "Villette",
+      "Halles de Lyon",
+      "Tour Oxygène"
+    ],
+    "69004": [
+      "Gros Caillou",
+      "Henon",
+      "Serin-Gillet",
+      "Croix-Rousse",
+      "Maison des Canuts",
+      "Mur des Canuts",
+      "Parc de la Cerisaie"
+    ],
+    "69005": [
+      "Fourvière",
+      "Point-du-Jour",
+      "Saint-Just",
+      "Vieux Lyon",
+      "Saint-Paul",
+      "Saint-Georges",
+      "Saint-Jean",
+      "Funiculaire Saint-Just",
+      "Basilique Notre-Dame de Fourvière",
+      "Théâtre Gallo-Romain",
+      "Musée Gallo-Romain"
+    ],
+    "69006": [
+      "Brotteaux",
+      "Cité Internationale",
+      "Foch",
+      "Masséna",
+      "Parc de la Tête d'Or",
+      "Bellecombe",
+      "Porte des Enfants du Rhône",
+      "Gare des Brotteaux"
+    ],
+    "69007": [
+      "Debourg",
+      "Gerland",
+      "Guillotière",
+      "Jean Macé",
+      "Parc de Gerland",
+      "Stade de Gerland",
+      "Université Lyon II",
+      "Halle Tony Garnier"
+    ],
+    "69008": [
+      "Bachut",
+      "Grand-Trou",
+      "Mermoz",
+      "Monplaisir",
+      "États-Unis",
+      "Laënnec",
+      "Sans-Souci",
+      "Maison de la Danse",
+      "Institut Lumière"
+    ],
+    "69009": [
+      "Gare de Vaise",
+      "Gorge de Loup",
+      "La Duchère",
+      "Rochecardon",
+      "Saint-Rambert",
+      "Valmy",
+      "Vaise",
+      "Ile Barbe",
+      "Techlid"
+    ]
+  },
+  "Marseille": {
+    "13001": [
+      "Belsunce",
+      "Canebière",
+      "Le Chapitre",
+      "Noailles",
+      "Opéra",
+      "Thiers",
+      "Vieux-Port",
+      "Colbert",
+      "Réformés Canebière"
+    ],
+    "13002": [
+      "Arenc",
+      "Hôtel de Ville",
+      "La Joliette",
+      "Les Grands Carmes",
+      "Les Terrasses du Port",
+      "MuCEM)",
+      "Panier",
+      "La Major",
+      "Docks Village"
+    ],
+    "13003": [
+      "Belle-de-Mai",
+      "National",
+      "Saint-Mauront",
+      "La Villette",
+      "Friche Belle-de-Mai",
+      "Gare de Marseille Saint-Charles"
+    ],
+    "13004": [
+      "Les Chartreux",
+      "Cinq-Avenues",
+      "Les Chutes-Lavie",
+      "La Blancarde",
+      "Saint-Just",
+      "Longchamp",
+      "Gare de la Blancarde",
+      "Palais Longchamp"
+    ],
+    "13005": [
+      "Baille",
+      "La Conception",
+      "Le Camas",
+      "Saint-Pierre",
+      "Notre-Dame du Mont",
+      "Réformés Canebière"
+    ],
+    "13006": [
+      "Castellane",
+      "Lodi",
+      "Notre-Dame-du-Mont",
+      "Palais de Justice",
+      "Préfecture",
+      "Vauban",
+      "Estrangin",
+      "Notre-Dame de la Garde",
+      "Place Castellane"
+    ],
+    "13007": [
+      "Bompard",
+      "Endoume",
+      "Le Pharo",
+      "Les Catalans",
+      "Saint-Victor",
+      "Vallon des Auffes",
+      "Fort Saint-Nicolas",
+      "Abbaye Saint-Victor",
+      "Plage des Catalans"
+    ],
+    "13008": [
+      "Bonneveine",
+      "La Plage",
+      "Montredon",
+      "Périer",
+      "Saint-Giniez",
+      "Rond-Point du Prado",
+      "Parc Borély",
+      "Stade Vélodrome",
+      "Pointe Rouge"
+    ],
+    "13009": [
+      "Le Cabot",
+      "Mazargues",
+      "Sainte-Marguerite",
+      "Vaufrèges",
+      "Sormiou",
+      "Redon",
+      "Sainte-Marguerite",
+      "Dromel",
+      "Parc National des Calanques"
+    ],
+    "13010": [
+      "La Capelette",
+      "Menpenti",
+      "Pont-de-Vivaux",
+      "Saint-Loup",
+      "La Timone"
+    ],
+    "13011": [
+      "Les Accates",
+      "La Treille",
+      "La Valentine",
+      "Les Camoins",
+      "Éoures",
+      "Centre Commercial Valentine",
+      "Château de la Buzine"
+    ],
+    "13012": [
+      "Les Caillols",
+      "Montolivet",
+      "Saint-Barnabé",
+      "Saint-Julien",
+      "La Fourragère",
+      "Louis Armand",
+      "Parc de la Moline"
+    ],
+    "13013": [
+      "Château-Gombert",
+      "La Croix-Rouge",
+      "Malpassé",
+      "Saint-Just",
+      "Frais Vallon",
+      "Gare de Saint-Just"
+    ],
+    "13014": [
+      "Le Merlan",
+      "Saint-Barthélemy",
+      "Sainte-Marthe",
+      "La Delorme",
+      "Les Arnavaux",
+      "Grand Littoral"
+    ],
+    "13015": [
+      "La Viste",
+      "Notre-Dame-Limite",
+      "Saint-Antoine",
+      "Verduron",
+      "Campagne Pastré"
+    ],
+    "13016": [
+      "L'Estaque",
+      "Mourepiane",
+      "Saint-André",
+      "Saint-Henri",
+      "Plages de Corbières",
+      "Gare de Saint-Henri"
+    ]
+  }
+}
