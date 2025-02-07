@@ -13,7 +13,7 @@
         "Tuileries",
         "Jardin des Tuileries",
         "Louvre Museum"
-      ],
+      ]
 	},
 	{
 		"cp": "75002",
@@ -27,8 +27,8 @@
 			"Vivienne",
 			"Bibliothèque Nationale de France",
 			"Passage des Panoramas"
-		],
-	},
+		]
+	}
   ],
   "Lyon": [
     {
@@ -41,7 +41,7 @@
 			"Place des Terreaux",
 			"Opéra Nouvel",
 			"Croix-Rousse"
-		],
+		]
 	},
 	{
 		"cp": "69002",
@@ -55,7 +55,7 @@
 			"Place Bellecour",
 			"Quai Saint-Antoine",
 			"Musée des Confluences"
-		],
+		]
 	}
   ]
 }
